@@ -1,4 +1,4 @@
-# e-commerce
+# e-commerce app(javaScript)
 
 •	Using Fake Store API, making call to pull information for different pseudo-products.
 
