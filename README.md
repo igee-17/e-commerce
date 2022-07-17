@@ -14,4 +14,6 @@
 
 
 -for more info on api and documentation see: { https://fakestoreapi.com/docs }
+
+
 -to view app in production see: { https://igee-17.github.io/e-commerce }
